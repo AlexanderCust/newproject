@@ -1,0 +1,13 @@
+code\db_scripts\sys\users\sneakers_kononov
+
+code\db_scripts\sneakers_kononov\sequences\s_unique_key
+
+code\db_scripts\sneakers_kononov\functions\f_key_gen
+
+code\db_scripts\sneakers_kononov\tables\tables
+
+code\db_scripts\sneakers_kononov\procedures\download_agg_data
+
+code\db_scripts\sneakers_kononov\packages\client_report
+
+code\db_scripts\sneakers_kononov\views\views
